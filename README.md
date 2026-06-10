@@ -68,6 +68,4 @@ This mini-project is a focused Tableau story (`Story1`) that highlights sales an
 
 ---
 
-- Run sensitivity/scenario analysis for potential supply constraints on the top product.
 
----
